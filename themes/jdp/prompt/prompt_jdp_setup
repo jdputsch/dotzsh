@@ -1,0 +1,12 @@
+#
+# dotzsh : https://github.com/dotphiles/dotzsh
+#
+# A very simple theme from JDPs setup prior to using .dotzsh
+#
+# Authors:
+#   Jeff Putsch <jdputsch@comcast.net>
+#
+
+function prompt_jdp_setup {
+    PROMPT=" : %n@%m$; "
+}
